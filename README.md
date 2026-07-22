@@ -100,6 +100,7 @@ Features:
 
 * Java
 * IntelliJ IDEA
+* VSCode
 * Git
 * GitHub
 * JDBC
